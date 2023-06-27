@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hHDLN82SsTMCVdJIAhmyoDECPOKlkdh27wh7UAZHYBI=",
+  "Source": "API weather",
+  "BasePath": "_content/API weather",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,34 @@
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\appsettings.json
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\API weather.exe
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\API weather.deps.json
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\API weather.runtimeconfig.json
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\API weather.dll
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\API weather.pdb
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.AssemblyInfo.cs
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\staticwebassets\msbuild.API weather.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\staticwebassets\msbuild.build.API weather.props
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API weather.props
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API weather.props
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\scopedcss\bundle\API weather.styles.css
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.csproj.CopyComplete
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.dll
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\refint\API weather.dll
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.pdb
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\API weather.genruntimeconfig.cache
+C:\Users\LEGION\Desktop\PV\API weather\API weather\obj\Debug\net7.0\ref\API weather.dll
+C:\Users\LEGION\Desktop\PV\API weather\API weather\bin\Debug\net7.0\Newtonsoft.Json.dll
