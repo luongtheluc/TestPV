@@ -60,7 +60,6 @@ namespace QLHV.service
                 listDiemTrungBinhMonhoc.Add(diemTrungBinhMonhoc);
             }
 
-            // Xử lý và trả về kết quả tùy theo yêu cầu của bạn
             return listDiemTrungBinhMonhoc;
         }
 
